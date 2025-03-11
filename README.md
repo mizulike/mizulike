@@ -38,7 +38,7 @@ Feel free to explore my repositories or reach out if you feel inclined!
 <details>
 <summary>surprise 👀👀👀</summary>
 
-![](assets/intro.png)
+![](assets/teethyme.jpg)
 
 </details>
 
