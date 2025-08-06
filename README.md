@@ -1,47 +1,39 @@
-# 👋 Hej! I'm Tim! 😁
+# Hello, I'm mizulike! 👋
 
-## 🇸🇪 Swedish developer tinkerin' maninkerin' with code
+![](https://komarev.com/ghpvc/?username=mizulike&color=blue&label=Profile%20Views)
+[![GitHub mizulike](https://img.shields.io/github/followers/mizulike?label=follow&style=social)](https://github.com/mizulike)
+[![GitHub Stars](https://img.shields.io/github/stars/mizulike?style=social)](https://github.com/mizulike)
 
-> Swedish guy doing IT stuff sometimes. Please reach out if you feel inclined!
+Passionate developer from Sweden 🇸🇪 who loves creating cool projects and learning new technologies. Currently exploring the world of coding with enthusiasm and a touch of Swedish fika ☕
 
-## 🛠️ What I'm up to
+![mizulike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizulike&show_icons=true&theme=radical)
 
-- Developing tools for Android reverse-engineering
-- Building utilities for Tasker
-- Working on personal servers
-- Experimenting with Gemini API
+### 🚀 What I'm working on
 
-## 💻 Tech I enjoy
+- **[Readmeify](https://github.com/mizulike/readmeify)** - Make your README look awesome with ease
+- **[ChatGPT CLI](https://github.com/mizulike/chatgpt-cli)** - Command line interface for ChatGPT interactions  
+- **[Movie Recommendation System](https://github.com/mizulike/movie-recommendation-system)** - Smart movie suggestions powered by ML
+- **[Password Generator](https://github.com/mizulike/password-generator)** - Secure password generation tool
 
-```
-Python | FastAPI | NextJS |
-```
+### 💻 Tech Stack & Interests
 
-## 🌟 Featured Projects
+- Web Development
+- Machine Learning
+- CLI Tools
+- Open Source Projects
 
-- **BetterSchema**: Spiced up our old timetable viewer for school 😜
-- **REVDROID**: Various tools and notes on reverse-engineering Android apps
-- **Tasker**: A collection of Profiles, Tasks, Scenes, Guides and other tools for Tasker
-- **CircleSchema**: Visualisera lektioner som en cirkel
-- **SchemaAPI**: Python-based API integration
+### 📊 GitHub Activity
 
-## 🔮 Fun Facts
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizulike&layout=compact&theme=radical)
 
-- I enjoy building tools that make everyday tasks more efficient
-- Sometimes my repositories are just "I JUST want the README" 😄
+### 💬 Get in touch
 
-
-## 📫 Connect with me
-
-Feel free to explore my repositories or reach out if you feel inclined!
-
-<details>
-<summary>surprise 👀👀👀</summary>
-
-![](assets/teethyme.jpg)
-
-</details>
+- 📫 Reach me through GitHub
+- 🌟 Check out my repositories
+- ☕ Always up for a chat about tech over some Swedish coffee!
 
 ---
 
-*tinker (verb): attempt to repair or improve something in a casual or desultory way*
+*"I JUST want the README 🥶" - and here it is! 
+
+⚡ Fun fact: I believe every project deserves a great README, just like every Swede deserves a good fika break!
