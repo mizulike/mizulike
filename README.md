@@ -10,10 +10,9 @@ Passionate developer from Sweden 🇸🇪 who loves creating cool projects and l
 
 ### 🚀 What I'm working on
 
-- **[Readmeify](https://github.com/mizulike/readmeify)** - Make your README look awesome with ease
-- **[ChatGPT CLI](https://github.com/mizulike/chatgpt-cli)** - Command line interface for ChatGPT interactions  
-- **[Movie Recommendation System](https://github.com/mizulike/movie-recommendation-system)** - Smart movie suggestions powered by ML
-- **[Password Generator](https://github.com/mizulike/password-generator)** - Secure password generation tool
+- **[mizulike](https://github.com/mizulike/mizulike)** - This repository (profile README) showcasing my GitHub presence
+- **[portfolio](https://github.com/mizulike/portfolio)** - My personal portfolio website built with React and TypeScript
+- **[blog](https://github.com/mizulike/blog)** - My technical blog powered by Gatsby or Next.js
 
 ### 💻 Tech Stack & Interests
 
