@@ -180,9 +180,7 @@ random_facts:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&animation=fadeIn" />
 
-### 🌟 *"I JUST want the README 🥶"* - and here it is! 
-
-**Thanks for visiting! ⭐ Star some repos if you find them interesting!**
+### **Thanks for visiting! ⭐ Star some repos if you find them interesting!**
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
